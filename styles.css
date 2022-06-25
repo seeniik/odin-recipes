@@ -5,7 +5,7 @@ body {
 
 h1 {
     font-family: Verdana, Arial, Sans-Serif;
-    font-size: 75px;
+    font-size: 50px;
 }
 
 img {
@@ -15,4 +15,15 @@ img {
 
 a {
     color: black;
+}
+
+h2 {
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 20px;
+}
+
+p,
+li {
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 15px;
 }
