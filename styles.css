@@ -6,6 +6,9 @@ body {
 h1 {
     font-family: Verdana, Arial, Sans-Serif;
     font-size: 50px;
+    /*background-color: white;*/
+    background-color: black;
+    color: #962317;
 }
 
 img {
